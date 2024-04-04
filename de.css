@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(to right bottom,rgb(134, 134, 185),rgb(59, 59, 132),rgb(28, 28, 133),rgb(10, 10, 50),rgb(0, 0, 5));
+    font-size: 100px;
+}
+
+*{
+    text-align: left;
+    padding: 100px;
+}
+.note{
+    color: aliceblue;
+}
